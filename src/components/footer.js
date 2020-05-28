@@ -105,17 +105,17 @@ const Footer = () => {
           href="https://github.com/rabzkhan"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div></div>
+          <div>........</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
                 <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
+                <span></span>
               </span>
               <span>
                 <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
+                <span>nvm install</span>
               </span>
             </StyledGitHubInfo>
           )}
