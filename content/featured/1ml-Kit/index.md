@@ -6,9 +6,9 @@ github: 'https://github.com/rabzkhan'
 external: ''
 tech:
   - Android
-  - ios
-  - Flutter
-  - Dart
+  - Java
+  - Firebase
+  - Machine Learning
 showInProjects: true
 ---
 
