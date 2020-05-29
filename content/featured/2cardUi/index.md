@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Portfolio UI'
-cover: './card.jpg'
+cover: './ui.png'
 github: 'https://github.com/rabzkhan/Flutter'
 external: ''
 tech:

@@ -105,7 +105,7 @@ const Footer = () => {
           href="https://github.com/rabzkhan"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div></div>
+          <div>.........</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

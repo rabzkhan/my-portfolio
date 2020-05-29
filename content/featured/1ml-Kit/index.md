@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Machine Learning Vision'
-cover: './mlkitt.jpg'
+cover: './mlkit.png'
 github: 'https://github.com/rabzkhan'
 external: ''
 tech:
